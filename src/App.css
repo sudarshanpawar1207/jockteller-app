@@ -1,0 +1,25 @@
+.form{
+  height:920px;
+  width: 500px;
+  border: solid #000 2px;
+  margin-left: 480px;
+  padding: 20px;
+  background-color: #a8dfdf;
+
+}
+
+.content{
+  text-align: justify;
+  margin-left: 50px;
+}
+
+.hr-line{
+  width: 350px;
+  margin-right: 100px;
+  text-align: justify;
+}
+
+.btn{
+  margin-left: 250px;
+}
+
